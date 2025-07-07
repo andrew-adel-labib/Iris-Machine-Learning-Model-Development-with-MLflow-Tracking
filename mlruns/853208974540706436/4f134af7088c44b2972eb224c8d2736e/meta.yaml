@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853208974540706436/4f134af7088c44b2972eb224c8d2736e/artifacts
+end_time: 1751891381330
+entry_point_name: ''
+experiment_id: '853208974540706436'
+lifecycle_stage: active
+run_id: 4f134af7088c44b2972eb224c8d2736e
+run_name: enchanting-hog-664
+run_uuid: 4f134af7088c44b2972eb224c8d2736e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751891375205
+status: 3
+tags: []
+user_id: andrew.labib
